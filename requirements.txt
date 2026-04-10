@@ -1,6 +1,4 @@
-
-open3d
 streamlit
+open3d
 numpy
 pandas
-trimesh
