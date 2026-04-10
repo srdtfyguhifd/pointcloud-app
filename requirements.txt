@@ -1,4 +1,4 @@
---extra-index-url https://pypi.org/simple
+
 open3d
 streamlit
 numpy
