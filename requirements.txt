@@ -1,5 +1,11 @@
-streamlit
-open3d==0.16.0
-numpy
-pandas
-trimesh
+# Web 框架
+streamlit==1.32.0
+
+# 点云处理核心库 (Open3D)
+open3d>=0.17.0
+
+# 数值计算
+numpy>=1.21.0
+
+# 3D 可视化 (用于 Plotly 3D 散点图)
+plotly>=5.13.0
