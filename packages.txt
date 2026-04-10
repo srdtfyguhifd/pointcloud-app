@@ -1,2 +1,4 @@
 ffmpeg
 cmake
+libgl1-mesa-glx  <-- 建议加上这个，这是Open3D渲染需要的图形库
+libglib2.0-0     <-- 加上这个，防止GLib报错
